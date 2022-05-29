@@ -72,7 +72,7 @@ Data Science Capstone | Ritchie School of Engineering & Computer Science | Unive
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues-shield]: https://img.shields.io/github/issues/rc-9/NBA_Lineup_Evaluator.svg?style=for-the-badge
-[issues-url]: https://github.com/rc-9/TecNBA_Lineup_EvaluatorNav/issues
+[issues-url]: https://github.com/rc-9/NBA_Lineup_Evaluator/issues
 
 
 
