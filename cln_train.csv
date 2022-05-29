@@ -1,0 +1,294 @@
+,Lineups,TEAM,MIN,GP,OffRtg,DefRtg,NetRtg,g_cls_1,g_cls_2,g_cls_3,g_cls_4,w_cls_1,w_cls_2,w_cls_3,w_cls_4,f_cls_1,f_cls_2,f_cls_3,f_cls_4,b_cls_1,b_cls_2,b_cls_3,plus_rtg
+0,"Al Horford, Marcus Smart, Jaylen Brown, Jayson Tatum, Robert Williams III",BOS,443,34,118.8,94.2,24.6,0,0,0,1,0,0,0,2,0,0,0,0,0,1,1,1
+1,"Patrick Beverley, D'Angelo Russell, Karl-Anthony Towns, Jarred Vanderbilt, Anthony Edwards",MIN,439,36,120.2,107.4,12.8,1,0,2,0,0,0,0,0,0,0,0,1,1,0,0,1
+2,"Alec Burks, Evan Fournier, Julius Randle, Mitchell Robinson, RJ Barrett",NYK,434,33,113.7,113.7,0.0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,1
+3,"Kyle Lowry, P.J. Tucker, Jimmy Butler, Bam Adebayo, Duncan Robinson",MIA,423,30,111.2,98.7,12.5,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1
+4,"Stephen Curry, Draymond Green, Andrew Wiggins, Kevon Looney, Jordan Poole",GSW,347,29,112.2,104.0,8.2,0,0,2,0,0,0,0,0,2,1,0,0,0,0,0,1
+5,"Pascal Siakam, Fred VanVleet, OG Anunoby, Gary Trent Jr., Scottie Barnes",TOR,345,21,107.4,106.8,0.5,0,0,1,0,1,0,0,0,0,2,0,1,0,0,0,1
+6,"Jrue Holiday, Khris Middleton, Giannis Antetokounmpo, Bobby Portis, Grayson Allen",MIL,337,36,115.6,108.7,6.9,0,1,0,1,0,0,0,0,0,2,0,1,0,0,0,1
+7,"Reggie Bullock, Dwight Powell, Dorian Finney-Smith, Jalen Brunson, Luka Doncic",DAL,333,38,124.6,113.8,10.8,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,1
+8,"James Harden, Tobias Harris, Joel Embiid, Matisse Thybulle, Tyrese Maxey",PHI,323,19,122.5,102.1,20.4,0,0,2,0,0,0,1,0,0,1,0,0,1,0,0,1
+9,"Bradley Beal, Kentavious Caldwell-Pope, Spencer Dinwiddie, Kyle Kuzma, Daniel Gafford",WAS,319,26,101.1,106.5,-5.4,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0
+10,"Mason Plumlee, Terry Rozier, Miles Bridges, P.J. Washington, LaMelo Ball",CHA,306,28,119.7,110.5,9.2,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,1
+11,"Cory Joseph, Jerami Grant, Saddiq Bey, Isaiah Stewart, Cade Cunningham",DET,273,19,114.0,109.3,4.7,1,0,1,0,0,0,0,0,0,2,0,0,0,0,1,1
+12,"Jerami Grant, Killian Hayes, Saddiq Bey, Isaiah Stewart, Cade Cunningham",DET,256,21,95.7,113.2,-17.6,1,0,1,0,0,0,0,0,0,2,0,0,0,0,1,0
+13,"Tobias Harris, Seth Curry, Joel Embiid, Matisse Thybulle, Tyrese Maxey",PHI,256,21,105.1,115.7,-10.6,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0
+14,"Shai Gilgeous-Alexander, Darius Bazley, Luguentz Dort, Jeremiah Robinson-Earl, Josh Giddey",OKC,254,25,94.3,112.4,-18.2,2,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0
+15,"Danny Green, Tobias Harris, Seth Curry, Joel Embiid, Tyrese Maxey",PHI,250,17,111.2,103.0,8.2,0,2,1,0,0,0,0,0,0,1,0,0,1,0,0,1
+16,"P.J. Tucker, Jimmy Butler, Bam Adebayo, Duncan Robinson, Gabe Vincent",MIA,163,20,110.8,102.8,8.0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1
+17,"Fred VanVleet, OG Anunoby, Gary Trent Jr., Precious Achiuwa, Scottie Barnes",TOR,158,17,109.0,100.6,8.4,0,0,1,0,1,0,0,0,0,1,0,2,0,0,0,1
+18,"Hamidou Diallo, Killian Hayes, Saddiq Bey, Isaiah Stewart, Cade Cunningham",DET,156,14,101.8,113.0,-11.2,2,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+19,"Pascal Siakam, Fred VanVleet, Gary Trent Jr., Precious Achiuwa, Scottie Barnes",TOR,152,15,114.7,101.3,13.4,0,0,1,0,1,0,0,0,0,1,0,2,0,0,0,1
+20,"Myles Turner, Domantas Sabonis, Caris LeVert, Malcolm Brogdon, Chris Duarte",IND,148,11,122.6,108.0,14.6,1,0,2,0,0,0,0,0,0,0,0,0,0,1,1,1
+21,"Dwight Powell, Dorian Finney-Smith, Maxi Kleber, Jalen Brunson, Luka Doncic",DAL,142,20,105.3,117.7,-12.4,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,0
+22,"Mason Plumlee, Terry Rozier, Miles Bridges, Cody Martin, LaMelo Ball",CHA,136,27,123.4,109.3,14.1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1
+23,"Shai Gilgeous-Alexander, Luguentz Dort, Jeremiah Robinson-Earl, Josh Giddey, Aaron Wiggins",OKC,126,12,112.3,121.5,-9.2,3,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+24,"Bradley Beal, Kentavious Caldwell-Pope, Spencer Dinwiddie, Montrezl Harrell, Kyle Kuzma",WAS,121,20,103.0,109.4,-6.4,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0
+25,"Cory Joseph, Hamidou Diallo, Saddiq Bey, Isaiah Stewart, Cade Cunningham",DET,121,11,96.4,120.5,-24.1,2,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+26,"P.J. Tucker, Jimmy Butler, Bam Adebayo, Duncan Robinson, Tyler Herro",MIA,114,28,107.4,100.4,7.0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,1,1
+27,"Marcus Smart, Jaylen Brown, Jayson Tatum, Robert Williams III, Grant Williams",BOS,109,22,126.8,95.8,31.0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,1,1
+28,"Pascal Siakam, Fred VanVleet, Chris Boucher, Gary Trent Jr., Scottie Barnes",TOR,104,11,122.9,99.5,23.3,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,1
+29,"Al Horford, Dennis Schroder, Marcus Smart, Jayson Tatum, Robert Williams III",BOS,103,12,94.2,111.3,-17.0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0
+30,"D'Angelo Russell, Karl-Anthony Towns, Malik Beasley, Jarred Vanderbilt, Anthony Edwards",MIN,103,18,135.2,121.0,14.2,0,1,2,0,0,0,0,0,0,0,0,1,1,0,0,1
+31,"Tim Hardaway Jr., Dwight Powell, Kristaps Porzingis, Dorian Finney-Smith, Luka Doncic",DAL,103,11,95.8,113.0,-17.1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,0
+32,"Reggie Bullock, Dorian Finney-Smith, Maxi Kleber, Jalen Brunson, Luka Doncic",DAL,101,19,105.8,103.4,2.4,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,1
+33,"Mason Plumlee, Kelly Oubre Jr., Terry Rozier, Miles Bridges, LaMelo Ball",CHA,97,18,105.6,113.8,-8.2,0,1,1,0,0,0,1,0,0,1,0,0,0,0,1,0
+34,"Tim Hardaway Jr., Dwight Powell, Dorian Finney-Smith, Jalen Brunson, Luka Doncic",DAL,95,19,119.6,107.3,12.3,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,1
+35,"Terry Rozier, Miles Bridges, Cody Martin, P.J. Washington, LaMelo Ball",CHA,92,19,116.8,116.3,0.5,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1
+36,"Justin Holiday, Myles Turner, Domantas Sabonis, Caris LeVert, Malcolm Brogdon",IND,91,10,114.0,103.7,10.3,0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,1
+37,"Cory Joseph, Jerami Grant, Marvin Bagley III, Saddiq Bey, Cade Cunningham",DET,90,7,94.5,104.9,-10.4,1,0,1,0,0,0,0,0,0,2,0,1,0,0,0,0
+38,"Kristaps Porzingis, Dorian Finney-Smith, Maxi Kleber, Jalen Brunson, Luka Doncic",DAL,90,9,111.8,106.1,5.8,0,0,1,0,0,1,0,0,0,0,1,1,0,1,0,1
+39,"Al Horford, Dennis Schroder, Marcus Smart, Jayson Tatum, Grant Williams",BOS,88,13,121.4,103.8,17.5,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1
+40,"Stephen Curry, Otto Porter Jr., Andrew Wiggins, Kevon Looney, Jordan Poole",GSW,86,11,123.4,100.0,23.4,0,0,2,0,0,0,0,0,1,1,1,0,0,0,0,1
+41,"Cory Joseph, Jerami Grant, Hamidou Diallo, Saddiq Bey, Isaiah Stewart",DET,85,8,102.4,107.6,-5.2,2,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0
+42,"Tobias Harris, Joel Embiid, Furkan Korkmaz, Matisse Thybulle, Tyrese Maxey",PHI,85,10,108.3,104.2,4.1,0,0,1,0,1,0,1,0,0,1,0,0,1,0,0,1
+43,"Harrison Barnes, Justin Holiday, Trey Lyles, Domantas Sabonis, De'Aaron Fox",SAC,84,8,117.9,120.2,-2.3,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0
+44,"Justin Holiday, Myles Turner, Domantas Sabonis, Malcolm Brogdon, Chris Duarte",IND,80,10,90.8,100.0,-9.2,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0
+45,"Gary Harris, Wendell Carter Jr., Chuma Okeke, Cole Anthony, Franz Wagner",ORL,79,23,105.1,107.3,-2.1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+46,"Chris Paul, Devin Booker, Mikal Bridges, Cameron Johnson, Jalen Smith",PHX,76,8,119.5,109.9,9.6,0,0,2,0,0,0,0,0,0,0,2,0,0,1,0,1
+47,"Patrick Beverley, Karl-Anthony Towns, Malik Beasley, Jarred Vanderbilt, Anthony Edwards",MIN,76,25,107.0,121.3,-14.3,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+48,"Bradley Beal, Kentavious Caldwell-Pope, Raul Neto, Kyle Kuzma, Daniel Gafford",WAS,74,20,105.8,113.2,-7.4,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0
+49,"Eric Gordon, Christian Wood, Kevin Porter Jr., Garrison Mathews, Jae'Sean Tate",HOU,74,7,122.5,100.6,21.9,0,2,0,0,0,0,0,1,0,0,0,2,0,0,0,1
+50,"Kentavious Caldwell-Pope, Raul Neto, Kyle Kuzma, Daniel Gafford, Corey Kispert",WAS,74,12,120.5,129.5,-9.0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+51,"Kentavious Caldwell-Pope, Raul Neto, Kristaps Porzingis, Kyle Kuzma, Corey Kispert",WAS,73,6,110.6,108.7,1.9,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,1
+52,"Kelly Oubre Jr., Terry Rozier, Miles Bridges, P.J. Washington, LaMelo Ball",CHA,72,19,111.5,103.6,7.9,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1
+53,"Trey Lyles, Hamidou Diallo, Killian Hayes, Saddiq Bey, Cade Cunningham",DET,72,11,107.1,119.1,-12.0,2,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+54,"Harrison Barnes, Richaun Holmes, De'Aaron Fox, Chimezie Metu, Tyrese Haliburton",SAC,69,7,98.6,105.5,-6.9,0,0,2,0,0,0,0,0,1,1,0,0,0,1,0,0
+55,"Carmelo Anthony, Russell Westbrook, Avery Bradley, Anthony Davis, Malik Monk",LAL,68,14,99.4,86.8,12.5,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1
+56,"Al Horford, Jaylen Brown, Jayson Tatum, Derrick White, Grant Williams",BOS,67,8,133.3,119.4,13.9,1,0,0,0,0,0,0,2,0,0,1,0,0,1,0,1
+57,"Harrison Barnes, Richaun Holmes, Buddy Hield, De'Aaron Fox, Tyrese Haliburton",SAC,67,17,115.7,123.1,-7.4,0,1,2,0,0,0,0,0,1,1,0,0,0,0,0,0
+58,"Bradley Beal, Raul Neto, Montrezl Harrell, Kyle Kuzma, Deni Avdija",WAS,66,17,101.4,102.1,-0.7,0,0,2,0,0,0,0,0,0,1,1,0,0,0,1,0
+59,"Dennis Schroder, Marcus Smart, Jaylen Brown, Jayson Tatum, Robert Williams III",BOS,66,11,105.6,99.3,6.3,0,0,1,1,0,0,0,2,0,0,0,0,0,0,1,1
+60,"Al Horford, Dennis Schroder, Jaylen Brown, Jayson Tatum, Robert Williams III",BOS,64,8,121.1,104.9,16.3,0,0,1,0,0,0,0,2,0,0,0,0,0,1,1,1
+61,"Cory Joseph, Marvin Bagley III, Saddiq Bey, Isaiah Stewart, Cade Cunningham",DET,64,7,114.4,117.3,-2.9,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+62,"Kyle Lowry, P.J. Tucker, Bam Adebayo, Duncan Robinson, Tyler Herro",MIA,62,7,110.1,99.2,10.9,0,0,2,0,0,0,0,0,0,0,1,1,0,0,1,1
+63,"LeBron James, Carmelo Anthony, Russell Westbrook, Malik Monk, Austin Reaves",LAL,62,14,108.3,112.8,-4.4,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+64,"Al Horford, Marcus Smart, Jaylen Brown, Jayson Tatum, Grant Williams",BOS,61,15,106.5,120.1,-13.7,0,0,0,1,0,0,0,2,0,0,1,0,0,1,0,0
+65,"George Hill, Khris Middleton, Giannis Antetokounmpo, Bobby Portis, Grayson Allen",MIL,59,15,113.8,94.4,19.4,1,1,0,0,0,0,0,0,0,2,0,1,0,0,0,1
+66,"Montrezl Harrell, Kelly Oubre Jr., Terry Rozier, Miles Bridges, Cody Martin",CHA,59,17,112.0,115.7,-3.7,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0
+67,"George Hill, Khris Middleton, Giannis Antetokounmpo, Pat Connaughton, Grayson Allen",MIL,58,11,104.7,118.1,-13.4,1,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+68,"Danny Green, Tobias Harris, Joel Embiid, Matisse Thybulle, Tyrese Maxey",PHI,57,11,98.3,110.0,-11.7,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0
+69,"Alec Burks, Evan Fournier, Mitchell Robinson, RJ Barrett, Obi Toppin",NYK,56,5,109.3,110.3,-1.0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,1,0
+70,"Jrue Holiday, Khris Middleton, Bobby Portis, Pat Connaughton, Grayson Allen",MIL,56,14,103.3,106.9,-3.6,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+71,"Reggie Bullock, Tim Hardaway Jr., Dwight Powell, Dorian Finney-Smith, Luka Doncic",DAL,56,15,77.0,105.1,-28.1,0,0,0,0,2,1,0,0,0,0,1,0,0,0,1,0
+72,"Jrue Holiday, Khris Middleton, Giannis Antetokounmpo, Bobby Portis, Pat Connaughton",MIL,55,14,119.5,105.0,14.6,0,1,0,1,0,0,0,0,0,2,0,1,0,0,0,1
+73,"Alec Burks, Julius Randle, Mitchell Robinson, RJ Barrett, Immanuel Quickley",NYK,53,11,95.4,103.7,-8.3,0,0,2,0,0,0,0,1,0,0,0,0,1,0,1,0
+74,"Al Horford, Dennis Schroder, Josh Richardson, Jayson Tatum, Grant Williams",BOS,53,15,101.0,100.9,0.0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,1
+75,"Carmelo Anthony, Russell Westbrook, Avery Bradley, Anthony Davis, Talen Horton-Tucker",LAL,53,7,111.2,100.0,11.2,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1
+76,"Jrue Holiday, Khris Middleton, Giannis Antetokounmpo, Pat Connaughton, Grayson Allen",MIL,53,18,117.5,106.9,10.6,0,2,0,1,0,0,0,0,0,2,0,0,0,0,0,1
+77,"Kyle Lowry, P.J. Tucker, Jimmy Butler, Bam Adebayo, Max Strus",MIA,53,8,131.5,121.7,9.8,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,1
+78,"James Harden, Tobias Harris, Joel Embiid, Georges Niang, Tyrese Maxey",PHI,52,14,111.8,111.5,0.3,0,0,2,0,0,0,0,0,0,1,1,0,1,0,0,1
+79,"Kyle Lowry, P.J. Tucker, Jimmy Butler, Bam Adebayo, Tyler Herro",MIA,51,14,93.9,101.8,-7.9,0,0,2,0,0,0,0,0,0,1,0,1,0,0,1,0
+80,"Stephen Curry, Draymond Green, Otto Porter Jr., Andrew Wiggins, Jordan Poole",GSW,51,13,105.2,90.8,14.4,0,0,2,0,0,0,0,0,1,1,1,0,0,0,0,1
+81,"Jrue Holiday, Giannis Antetokounmpo, Bobby Portis, Pat Connaughton, Grayson Allen",MIL,50,18,103.4,111.4,-8.0,0,2,0,1,0,0,0,0,0,1,0,1,0,0,0,0
+82,"Kentavious Caldwell-Pope, Raul Neto, Kyle Kuzma, Daniel Gafford, Deni Avdija",WAS,50,14,88.0,114.5,-26.6,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+83,"Tim Hardaway Jr., Kristaps Porzingis, Dorian Finney-Smith, Jalen Brunson, Luka Doncic",DAL,50,14,92.5,109.6,-17.1,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,0
+84,"Tobias Harris, Seth Curry, Joel Embiid, Furkan Korkmaz, Tyrese Maxey",PHI,50,13,133.7,116.8,16.8,0,1,1,0,1,0,0,0,0,1,0,0,1,0,0,1
+85,"Bam Adebayo, Cody Martin, Gabe Vincent, Max Strus, Tyler Herro",MIA,49,13,110.3,92.9,17.4,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1
+86,"Justin Holiday, Myles Turner, Domantas Sabonis, Caris LeVert, Chris Duarte",IND,49,7,118.9,110.4,8.5,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1
+87,"LeBron James, Carmelo Anthony, Malik Monk, Talen Horton-Tucker, Austin Reaves",LAL,49,14,99.1,120.0,-20.9,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+88,"Pascal Siakam, Chris Boucher, Gary Trent Jr., Precious Achiuwa, Scottie Barnes",TOR,49,12,115.5,90.5,25.1,0,0,0,0,1,0,0,0,0,1,0,2,0,1,0,1
+89,"Terrence Ross, Gary Harris, Wendell Carter Jr., Chuma Okeke, Cole Anthony",ORL,49,19,99.1,93.7,5.4,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1
+90,"Alec Burks, Evan Fournier, Julius Randle, Mitchell Robinson, Immanuel Quickley",NYK,48,13,104.1,93.6,10.5,0,0,2,0,1,0,0,0,0,0,0,0,1,0,1,1
+91,"Bradley Beal, Kentavious Caldwell-Pope, Raul Neto, Montrezl Harrell, Kyle Kuzma",WAS,48,21,97.0,106.7,-9.6,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0
+92,"Harrison Barnes, Richaun Holmes, De'Aaron Fox, Marvin Bagley III, Tyrese Haliburton",SAC,48,4,114.4,130.3,-15.9,0,0,2,0,0,0,0,0,1,1,0,1,0,0,0,0
+93,"Patrick Beverley, Malik Beasley, Jarred Vanderbilt, Naz Reid, Anthony Edwards",MIN,48,9,107.3,103.1,4.2,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+94,"Pascal Siakam, Fred VanVleet, OG Anunoby, Chris Boucher, Precious Achiuwa",TOR,48,10,110.8,109.1,1.7,0,0,1,0,0,0,0,0,0,2,0,1,0,1,0,1
+95,"Pascal Siakam, Fred VanVleet, OG Anunoby, Gary Trent Jr., Precious Achiuwa",TOR,48,11,109.5,98.2,11.4,0,0,1,0,1,0,0,0,0,2,0,1,0,0,0,1
+96,"Tim Hardaway Jr., Dwight Powell, Kristaps Porzingis, Dorian Finney-Smith, Jalen Brunson",DAL,48,5,104.2,105.1,-0.9,0,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0
+97,"Dennis Schroder, Marcus Smart, Jayson Tatum, Robert Williams III, Grant Williams",BOS,47,13,107.8,111.2,-3.4,0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0
+98,"Spencer Dinwiddie, Dwight Powell, Dorian Finney-Smith, Jalen Brunson, Luka Doncic",DAL,47,7,109.2,120.4,-11.2,0,0,2,0,0,1,0,0,0,0,1,0,0,0,1,0
+99,"Tobias Harris, Seth Curry, Joel Embiid, Furkan Korkmaz, Matisse Thybulle",PHI,47,10,111.2,108.1,3.1,0,1,0,0,1,0,1,0,0,1,0,0,1,0,0,1
+100,"Al Horford, Dennis Schroder, Jaylen Brown, Jayson Tatum, Grant Williams",BOS,46,5,107.2,99.0,8.2,0,0,1,0,0,0,0,2,0,0,1,0,0,1,0,1
+101,"Patrick Beverley, D'Angelo Russell, Karl-Anthony Towns, Malik Beasley, Jarred Vanderbilt",MIN,46,10,103.0,106.1,-3.2,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0
+102,"Reggie Bullock, Dwight Powell, Kristaps Porzingis, Dorian Finney-Smith, Luka Doncic",DAL,46,5,120.2,88.3,31.9,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,1
+103,"Dennis Schroder, Josh Richardson, Jayson Tatum, Robert Williams III, Grant Williams",BOS,45,14,103.4,119.1,-15.7,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0
+104,"Marcus Smart, Josh Richardson, Jaylen Brown, Jayson Tatum, Robert Williams III",BOS,45,9,125.0,98.9,26.1,0,1,0,1,0,0,0,2,0,0,0,0,0,0,1,1
+105,"Pascal Siakam, Fred VanVleet, OG Anunoby, Precious Achiuwa, Scottie Barnes",TOR,45,6,96.7,92.0,4.7,0,0,1,0,0,0,0,0,0,2,0,2,0,0,0,1
+106,"Reggie Bullock, Spencer Dinwiddie, Dorian Finney-Smith, Maxi Kleber, Luka Doncic",DAL,45,9,106.7,116.2,-9.5,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0
+107,"Reggie Bullock, Spencer Dinwiddie, Dwight Powell, Dorian Finney-Smith, Jalen Brunson",DAL,45,7,114.9,117.2,-2.3,0,0,2,0,1,0,0,0,0,0,1,0,0,0,1,0
+108,"Justin Holiday, Domantas Sabonis, Caris LeVert, Torrey Craig, Chris Duarte",IND,44,6,101.1,126.1,-25.0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+109,"Pascal Siakam, Fred VanVleet, Chris Boucher, Gary Trent Jr., Precious Achiuwa",TOR,44,18,117.4,94.7,22.7,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,1
+110,"George Hill, Jrue Holiday, Giannis Antetokounmpo, Bobby Portis, Grayson Allen",MIL,43,11,107.4,99.0,8.5,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1
+111,"LaMarcus Aldridge, Kevin Durant, James Harden, Patty Mills, Bruce Brown",BKN,43,11,112.6,111.3,1.3,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,1
+112,"Marcus Smart, Jaylen Brown, Derrick White, Robert Williams III, Grant Williams",BOS,43,11,108.7,124.5,-15.8,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+113,"Stephen Curry, Otto Porter Jr., Andrew Wiggins, Kevon Looney, Gary Payton II",GSW,43,7,108.7,94.6,14.1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1
+114,"Tobias Harris, Seth Curry, Joel Embiid, Georges Niang, Tyrese Maxey",PHI,43,12,114.0,93.7,20.3,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,1
+115,"George Hill, Jrue Holiday, Giannis Antetokounmpo, Pat Connaughton, Grayson Allen",MIL,42,14,141.3,68.9,72.4,1,2,0,1,0,0,0,0,0,1,0,0,0,0,0,1
+116,"LeBron James, Russell Westbrook, Avery Bradley, Anthony Davis, Talen Horton-Tucker",LAL,42,5,109.2,107.9,1.3,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1
+117,"Reggie Bullock, Dwight Powell, Kristaps Porzingis, Dorian Finney-Smith, Jalen Brunson",DAL,42,4,114.8,118.8,-3.9,0,0,1,0,1,0,0,0,0,0,1,0,0,1,1,0
+118,"Harrison Barnes, Richaun Holmes, Buddy Hield, De'Aaron Fox, Davion Mitchell",SAC,41,14,102.2,94.5,7.7,0,1,2,0,0,0,0,0,1,1,0,0,0,0,0,1
+119,"Kyle Lowry, P.J. Tucker, Bam Adebayo, Duncan Robinson, Gabe Vincent",MIA,41,5,119.3,110.1,9.2,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1
+120,"P.J. Tucker, Jimmy Butler, Bam Adebayo, Gabe Vincent, Tyler Herro",MIA,41,9,108.3,113.6,-5.2,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+121,"Reggie Bullock, Dwight Powell, Dorian Finney-Smith, Maxi Kleber, Jalen Brunson",DAL,41,9,106.1,89.3,16.8,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,1
+122,"Terrence Ross, Wendell Carter Jr., Chuma Okeke, Cole Anthony, Franz Wagner",ORL,41,9,94.0,101.2,-7.1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,0
+123,"Bradley Beal, Kentavious Caldwell-Pope, Kyle Kuzma, Daniel Gafford, Deni Avdija",WAS,40,5,109.9,109.7,0.2,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1
+124,"Danilo Gallinari, Bojan Bogdanovic, John Collins, Kevin Huerter, Trae Young",ATL,40,15,105.7,127.4,-21.7,0,0,1,0,1,0,0,0,0,2,0,0,0,1,0,0
+125,"Draymond Green, Otto Porter Jr., Andrew Wiggins, Gary Payton II, Jordan Poole",GSW,40,10,119.5,83.9,35.6,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1
+126,"Marcus Smart, Josh Richardson, Jaylen Brown, Robert Williams III, Grant Williams",BOS,40,13,101.1,100.0,1.1,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,1
+127,"Dennis Schroder, Marcus Smart, Josh Richardson, Jayson Tatum, Robert Williams III",BOS,39,7,129.3,83.8,45.5,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,1
+128,"Evan Fournier, Julius Randle, Mitchell Robinson, RJ Barrett, Immanuel Quickley",NYK,39,16,118.5,117.7,0.8,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,1
+129,"Kelly Oubre Jr., Terry Rozier, Miles Bridges, Cody Martin, P.J. Washington",CHA,39,14,120.0,106.3,13.8,0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,1
+130,"Tobias Harris, Joel Embiid, Georges Niang, Matisse Thybulle, Tyrese Maxey",PHI,39,11,101.3,122.5,-21.2,0,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0
+131,"Al Horford, Dennis Schroder, Marcus Smart, Jaylen Brown, Jayson Tatum",BOS,38,8,81.0,101.2,-20.3,0,0,1,1,0,0,0,2,0,0,0,0,0,1,0,0
+132,"Danilo Gallinari, John Collins, Kevin Huerter, Trae Young, Cam Reddish",ATL,38,13,125.0,106.0,19.0,0,0,1,0,2,0,0,0,0,1,0,0,0,1,0,1
+133,"Danilo Gallinari, John Collins, Kevin Huerter, Trae Young, De'Andre Hunter",ATL,38,13,117.6,121.4,-3.8,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+134,"Stephen Curry, Andrew Wiggins, Kevon Looney, Gary Payton II, Jordan Poole",GSW,38,12,125.3,109.5,15.8,1,0,2,0,0,0,0,0,1,1,0,0,0,0,0,1
+135,"Spencer Dinwiddie, Dorian Finney-Smith, Maxi Kleber, Jalen Brunson, Luka Doncic",DAL,38,8,115.8,88.2,27.6,0,0,2,0,0,1,0,0,0,0,1,1,0,0,0,1
+136,"Shai Gilgeous-Alexander, Darius Bazley, Luguentz Dort, Jeremiah Robinson-Earl, Tre Mann",OKC,38,8,88.9,116.7,-27.8,1,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
+137,"Terrence Ross, Gary Harris, Wendell Carter Jr., Cole Anthony, Franz Wagner",ORL,38,12,114.0,118.1,-4.1,0,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0
+138,"Alec Burks, Mitchell Robinson, RJ Barrett, Obi Toppin, Immanuel Quickley",NYK,37,8,131.5,81.2,50.3,0,0,2,0,0,0,0,1,0,0,0,1,0,0,1,1
+139,"Al Horford, Dennis Schroder, Josh Richardson, Jaylen Brown, Grant Williams",BOS,37,11,89.2,113.3,-24.1,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+140,"George Hill, Khris Middleton, Bobby Portis, Pat Connaughton, Grayson Allen",MIL,37,15,84.1,102.4,-18.3,1,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+141,"James Harden, Danny Green, Tobias Harris, Joel Embiid, Tyrese Maxey",PHI,37,10,100.0,117.7,-17.7,0,1,2,0,0,0,0,0,0,1,0,0,1,0,0,0
+142,"Kevin Love, Caris LeVert, Lauri Markkanen, Darius Garland, Isaac Okoro",CLE,37,8,113.2,105.1,8.1,0,0,2,0,0,0,1,0,0,0,0,0,0,2,0,1
+143,"Kyle Lowry, Monte Morris, Bam Adebayo, Max Strus, Tyler Herro",MIA,37,6,117.1,82.5,34.6,0,1,2,0,1,0,0,0,0,0,0,0,0,0,1,1
+144,"Al Horford, Jayson Tatum, Derrick White, Grant Williams, Payton Pritchard",BOS,36,10,117.4,78.9,38.4,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1
+145,"Bradley Beal, Kentavious Caldwell-Pope, Spencer Dinwiddie, Daniel Gafford, Deni Avdija",WAS,36,4,100.0,119.5,-19.5,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+146,"Fred VanVleet, Chris Boucher, Gary Trent Jr., Precious Achiuwa, Scottie Barnes",TOR,36,14,101.3,98.7,2.6,0,0,1,0,1,0,0,0,0,0,0,2,0,1,0,1
+147,"Kyle Lowry, P.J. Tucker, Bam Adebayo, Max Strus, Tyler Herro",MIA,36,8,123.1,116.5,6.6,0,0,2,0,1,0,0,0,0,0,0,1,0,0,1,1
+148,"Pascal Siakam, Fred VanVleet, OG Anunoby, Chris Boucher, Scottie Barnes",TOR,36,6,112.9,110.0,2.9,0,0,1,0,0,0,0,0,0,2,0,1,0,1,0,1
+149,"Reggie Bullock, Dwight Powell, Dorian Finney-Smith, Maxi Kleber, Luka Doncic",DAL,36,13,105.6,108.0,-2.4,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0
+150,"Al Horford, Jaylen Brown, Derrick White, Grant Williams, Payton Pritchard",BOS,35,11,121.4,95.9,25.5,1,1,0,0,0,0,0,1,0,0,1,0,0,1,0,1
+151,"Al Horford, Marcus Smart, Jaylen Brown, Derrick White, Grant Williams",BOS,35,8,100.0,106.9,-6.9,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,0
+152,"Danny Green, Tobias Harris, Seth Curry, Joel Embiid, Furkan Korkmaz",PHI,35,6,98.7,119.2,-20.5,0,2,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+153,"Kelly Oubre Jr., Miles Bridges, Cody Martin, P.J. Washington, LaMelo Ball",CHA,35,14,122.5,108.8,13.8,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1
+154,"Marvin Bagley III, Killian Hayes, Saddiq Bey, Isaiah Stewart, Cade Cunningham",DET,35,7,120.5,127.0,-6.5,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+155,"Mason Plumlee, Kelly Oubre Jr., Terry Rozier, Miles Bridges, Cody Martin",CHA,35,11,94.7,105.6,-10.9,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0
+156,"Pascal Siakam, Fred VanVleet, Chris Boucher, Precious Achiuwa, Scottie Barnes",TOR,35,10,97.1,121.1,-24.0,0,0,1,0,0,0,0,0,0,1,0,2,0,1,0,0
+157,"Reggie Bullock, Spencer Dinwiddie, Dwight Powell, Dorian Finney-Smith, Luka Doncic",DAL,35,10,117.9,123.1,-5.2,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0
+158,"Tobias Harris, Joel Embiid, Georges Niang, Furkan Korkmaz, Tyrese Maxey",PHI,35,6,134.2,111.4,22.8,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,1
+159,"Seth Curry, Joel Embiid, Georges Niang, Matisse Thybulle, Tyrese Maxey",PHI,34,10,95.7,79.2,16.5,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1
+160,"Tim Hardaway Jr., Dorian Finney-Smith, Maxi Kleber, Jalen Brunson, Luka Doncic",DAL,34,10,114.7,139.1,-24.4,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0
+161,"Al Horford, Marcus Smart, Jayson Tatum, Derrick White, Grant Williams",BOS,33,10,111.6,95.8,15.8,1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1
+162,"Kentavious Caldwell-Pope, Spencer Dinwiddie, Kyle Kuzma, Daniel Gafford, Corey Kispert",WAS,33,4,126.9,111.8,15.1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1
+163,"Kyle Lowry, Bam Adebayo, Cody Martin, Gabe Vincent, Tyler Herro",MIA,33,6,107.7,82.7,25.0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,1
+164,"Montrezl Harrell, Kelly Oubre Jr., Cody Martin, P.J. Washington, LaMelo Ball",CHA,33,12,106.8,133.3,-26.5,0,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0
+165,"Stephen Curry, Draymond Green, Andrew Wiggins, Kevon Looney, Gary Payton II",GSW,33,5,113.8,92.9,21.0,1,0,1,0,0,0,0,0,2,1,0,0,0,0,0,1
+166,"Fred VanVleet, OG Anunoby, Chris Boucher, Gary Trent Jr., Scottie Barnes",TOR,32,5,125.4,101.5,23.9,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,1
+167,"Marcus Smart, Jayson Tatum, Derrick White, Robert Williams III, Grant Williams",BOS,32,9,89.4,111.1,-21.7,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0
+168,"LeBron James, Carmelo Anthony, Russell Westbrook, Anthony Davis, Malik Monk",LAL,31,7,115.4,125.0,-9.6,1,0,0,1,0,0,0,0,0,2,0,0,1,0,0,0
+169,"Mason Plumlee, Terry Rozier, Miles Bridges, Cody Martin, P.J. Washington",CHA,31,12,112.9,105.8,7.1,0,1,0,0,0,0,0,0,0,1,1,1,0,0,1,1
+170,"Otto Porter Jr., Andrew Wiggins, Kevon Looney, Gary Payton II, Jordan Poole",GSW,31,10,100.0,96.7,3.3,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,1
+171,"P.J. Tucker, Jimmy Butler, Bam Adebayo, Max Strus, Tyler Herro",MIA,31,9,104.6,91.0,13.6,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,1
+172,"Tim Hardaway Jr., Dwight Powell, Dorian Finney-Smith, Maxi Kleber, Luka Doncic",DAL,31,11,119.3,120.7,-1.4,0,0,0,0,1,1,0,0,0,0,1,1,0,0,1,0
+173,"Danny Green, Tobias Harris, Seth Curry, Joel Embiid, Matisse Thybulle",PHI,30,4,112.7,96.9,15.8,0,2,0,0,0,0,1,0,0,1,0,0,1,0,0,1
+174,"Jrue Holiday, Khris Middleton, Giannis Antetokounmpo, Bobby Portis, Jordan Nwora",MIL,30,4,136.9,137.9,-1.0,0,0,0,1,0,0,0,0,0,2,1,1,0,0,0,0
+175,"Cory Joseph, Trey Lyles, Hamidou Diallo, Saddiq Bey, Cade Cunningham",DET,29,10,122.6,108.1,14.5,2,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1
+176,"Pascal Siakam, OG Anunoby, Gary Trent Jr., Precious Achiuwa, Scottie Barnes",TOR,29,7,94.7,154.2,-59.5,0,0,0,0,1,0,0,0,0,2,0,2,0,0,0,0
+177,"Stephen Curry, Draymond Green, Otto Porter Jr., Kevon Looney, Gary Payton II",GSW,29,2,150.0,113.3,36.7,1,0,1,0,0,0,0,0,2,0,1,0,0,0,0,1
+178,"Wendell Carter Jr., Chuma Okeke, Cole Anthony, R.J. Hampton, Franz Wagner",ORL,29,8,109.7,91.9,17.7,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1
+179,"Al Horford, Dennis Schroder, Marcus Smart, Josh Richardson, Jayson Tatum",BOS,28,7,123.8,125.8,-2.0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0
+180,"Draymond Green, Andrew Wiggins, Kevon Looney, Damion Lee, Jordan Poole",GSW,28,9,96.2,111.3,-15.1,0,0,1,0,1,0,0,0,2,1,0,0,0,0,0,0
+181,"Harrison Barnes, Justin Holiday, Trey Lyles, Domantas Sabonis, Davion Mitchell",SAC,28,3,105.6,112.5,-6.9,0,0,1,0,1,0,0,0,0,1,0,1,0,0,1,0
+182,"James Harden, Joel Embiid, Georges Niang, Matisse Thybulle, Tyrese Maxey",PHI,28,11,103.8,113.3,-9.5,0,0,2,0,0,0,1,0,0,0,1,0,1,0,0,0
+183,"Justin Holiday, Domantas Sabonis, Malcolm Brogdon, Oshae Brissett, Chris Duarte",IND,28,4,116.1,91.1,25.0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,1,1
+184,"LeBron James, Carmelo Anthony, Russell Westbrook, Talen Horton-Tucker, Austin Reaves",LAL,28,9,100.0,117.7,-17.7,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0
+185,"Mason Plumlee, Kelly Oubre Jr., Terry Rozier, Miles Bridges, P.J. Washington",CHA,28,11,91.7,125.9,-34.2,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0
+186,"D'Angelo Russell, Malik Beasley, Jarred Vanderbilt, Naz Reid, Anthony Edwards",MIN,27,12,103.2,100.0,3.2,0,1,2,0,0,0,0,0,0,0,0,1,0,0,1,1
+187,"Dennis Schroder, Josh Richardson, Jaylen Brown, Jayson Tatum, Robert Williams III",BOS,27,7,105.4,94.6,10.7,0,1,1,0,0,0,0,2,0,0,0,0,0,0,1,1
+188,"Gary Harris, Wendell Carter Jr., Cole Anthony, R.J. Hampton, Franz Wagner",ORL,27,7,122.2,90.4,31.8,1,1,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+189,"Dennis Schroder, Josh Richardson, Jaylen Brown, Robert Williams III, Grant Williams",BOS,26,9,108.2,122.9,-14.8,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1,0
+190,"LeBron James, Carmelo Anthony, Russell Westbrook, Avery Bradley, Malik Monk",LAL,26,8,108.5,96.5,12.0,1,1,0,1,0,0,0,0,0,2,0,0,0,0,0,1
+191,"Montrezl Harrell, Kelly Oubre Jr., Terry Rozier, Cody Martin, P.J. Washington",CHA,26,11,103.5,119.3,-15.8,0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0
+192,"Seth Curry, Joel Embiid, Georges Niang, Furkan Korkmaz, Tyrese Maxey",PHI,26,11,110.5,92.6,17.9,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,1
+193,"Trae Young, Pascal Siakam, Chris Boucher, Gary Trent Jr., Precious Achiuwa",TOR,26,8,105.8,94.2,11.5,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,1
+194,"Bradley Beal, Kentavious Caldwell-Pope, Raul Neto, Daniel Gafford, Deni Avdija",WAS,25,7,120.0,94.4,25.6,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,1
+195,"Pascal Siakam, OG Anunoby, Chris Boucher, Precious Achiuwa, Scottie Barnes",TOR,25,6,102.0,86.3,15.7,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,1
+196,"Al Horford, Dennis Schroder, Josh Richardson, Jaylen Brown, Jayson Tatum",BOS,24,6,84.6,88.2,-3.6,0,1,1,0,0,0,0,2,0,0,0,0,0,1,0,0
+197,"Al Horford, Dennis Schroder, Marcus Smart, Jaylen Brown, Grant Williams",BOS,24,5,92.6,86.3,6.3,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,1
+198,"Bradley Beal, Raul Neto, Kyle Kuzma, Daniel Gafford, Deni Avdija",WAS,24,8,102.0,73.1,29.0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,1,1
+199,"Bradley Beal, Raul Neto, Montrezl Harrell, Deni Avdija, Corey Kispert",WAS,24,10,101.8,94.5,7.2,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1,1
+200,"Bojan Bogdanovic, John Collins, Trae Young, Cam Reddish, De'Andre Hunter",ATL,24,6,92.7,120.8,-28.0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+201,"Carmelo Anthony, Russell Westbrook, Anthony Davis, Malik Monk, Austin Reaves",LAL,24,11,86.9,78.3,8.6,2,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1
+202,"Carmelo Anthony, Russell Westbrook, Anthony Davis, Malik Monk, Talen Horton-Tucker",LAL,24,7,73.2,92.9,-19.6,2,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+203,"George Hill, Jrue Holiday, Khris Middleton, Bobby Portis, Pat Connaughton",MIL,24,8,140.4,120.8,19.6,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1
+204,"Harrison Barnes, De'Aaron Fox, Marvin Bagley III, Chimezie Metu, Tyrese Haliburton",SAC,24,2,140.7,120.8,20.0,0,0,2,0,0,0,0,0,0,1,0,1,0,1,0,1
+205,"Harrison Barnes, Richaun Holmes, Buddy Hield, Chimezie Metu, Tyrese Haliburton",SAC,24,5,71.2,123.1,-51.9,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0,0
+206,"Harrison Barnes, Richaun Holmes, Marvin Bagley III, Tyrese Haliburton, Davion Mitchell",SAC,24,3,106.0,133.3,-27.3,0,0,2,0,0,0,0,0,1,1,0,1,0,0,0,0
+207,"Kyle Lowry, Bam Adebayo, Cody Martin, Gabe Vincent, Max Strus",MIA,24,4,127.1,100.0,27.1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,1
+208,"Otto Porter Jr., Andrew Wiggins, Kevon Looney, Damion Lee, Jordan Poole",GSW,24,10,93.9,93.9,0.0,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0,1
+209,"P.J. Tucker, Jimmy Butler, Bam Adebayo, Gabe Vincent, Max Strus",MIA,24,8,119.2,133.3,-14.1,0,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0
+210,"Reggie Bullock, Tim Hardaway Jr., Dorian Finney-Smith, Maxi Kleber, Jalen Brunson",DAL,24,9,100.0,105.9,-5.9,0,0,1,0,2,0,0,0,0,0,1,1,0,0,0,0
+211,"Shai Gilgeous-Alexander, Darius Bazley, Aleksej Pokusevski, Tre Mann, Aaron Wiggins",OKC,24,3,121.6,145.1,-23.5,1,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
+212,"Al Horford, Marcus Smart, Jaylen Brown, Jayson Tatum, Payton Pritchard",BOS,23,5,117.0,117.4,-0.4,0,1,0,1,0,0,0,2,0,0,0,0,0,1,0,0
+213,"Bam Adebayo, Cody Martin, Duncan Robinson, Gabe Vincent, Max Strus",MIA,23,6,127.7,112.5,15.2,0,1,0,0,1,0,0,0,0,0,2,0,0,0,1,1
+214,"Bojan Bogdanovic, John Collins, Kevin Huerter, Trae Young, De'Andre Hunter",ATL,23,8,88.0,100.0,-12.0,0,0,1,0,1,0,1,0,0,1,0,0,0,1,0,0
+215,"George Hill, Jrue Holiday, Giannis Antetokounmpo, Bobby Portis, Pat Connaughton",MIL,23,12,116.7,76.5,40.2,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1
+216,"Harrison Barnes, Richaun Holmes, Buddy Hield, Tyrese Haliburton, Davion Mitchell",SAC,23,10,100.0,103.8,-3.8,0,1,2,0,0,0,0,0,1,1,0,0,0,0,0,0
+217,"Kyle Lowry, Bam Adebayo, Cody Martin, Max Strus, Tyler Herro",MIA,23,4,120.0,102.3,17.7,0,0,2,0,1,0,0,0,0,0,1,0,0,0,1,1
+218,"Marcus Smart, Jaylen Brown, Jayson Tatum, Derrick White, Robert Williams III",BOS,23,5,128.0,100.0,28.0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,1,1
+219,"Brandon Ingram, Josh Hart, Devonte' Graham, Jaxson Hayes, Herbert Jones",NOP,22,8,91.3,115.2,-23.9,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0,0
+220,"Danilo Gallinari, Bojan Bogdanovic, John Collins, Trae Young, De'Andre Hunter",ATL,22,13,143.5,123.3,20.2,0,0,1,0,0,0,1,0,0,2,0,0,0,1,0,1
+221,"Danilo Gallinari, Delon Wright, John Collins, Kevin Huerter, Cam Reddish",ATL,22,6,104.2,68.1,36.1,1,0,0,0,2,0,0,0,0,1,0,0,0,1,0,1
+222,"Jimmy Butler, Bam Adebayo, Duncan Robinson, Gabe Vincent, Tyler Herro",MIA,22,5,123.3,95.3,27.9,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1
+223,"Kentavious Caldwell-Pope, Raul Neto, Kyle Kuzma, Deni Avdija, Corey Kispert",WAS,22,5,148.1,113.7,34.4,0,1,1,0,0,0,0,0,0,1,2,0,0,0,0,1
+224,"Kentavious Caldwell-Pope, Spencer Dinwiddie, Montrezl Harrell, Kyle Kuzma, Corey Kispert",WAS,22,5,135.6,120.0,15.6,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1
+225,"Marcus Smart, Josh Richardson, Jayson Tatum, Robert Williams III, Grant Williams",BOS,22,7,125.0,102.0,23.0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1,1
+226,"Reggie Bullock, Tim Hardaway Jr., Dwight Powell, Dorian Finney-Smith, Jalen Brunson",DAL,22,10,82.6,95.6,-12.9,0,0,1,0,2,0,0,0,0,0,1,0,0,0,1,0
+227,"Reggie Bullock, Tim Hardaway Jr., Kristaps Porzingis, Dorian Finney-Smith, Jalen Brunson",DAL,22,5,129.5,117.8,11.8,0,0,1,0,2,0,0,0,0,0,1,0,0,1,0,1
+228,"Al Horford, Marcus Smart, Jaylen Brown, Jayson Tatum, Derrick White",BOS,21,6,102.2,102.1,0.1,1,0,0,1,0,0,0,2,0,0,0,0,0,1,0,1
+229,"Buddy Hield, Malcolm Brogdon, Oshae Brissett, Tyrese Haliburton, Jalen Smith",IND,21,6,131.8,131.1,0.7,0,1,2,0,0,0,1,0,0,0,0,0,0,1,0,1
+230,"Carmelo Anthony, Russell Westbrook, Avery Bradley, Anthony Davis, Austin Reaves",LAL,21,6,119.6,110.9,8.7,1,1,0,1,0,0,0,0,0,1,0,0,1,0,0,1
+231,"Danny Green, Seth Curry, Joel Embiid, Georges Niang, Tyrese Maxey",PHI,21,5,123.8,113.3,10.5,0,2,1,0,0,0,0,0,0,0,1,0,1,0,0,1
+232,"Fred VanVleet, OG Anunoby, Chris Boucher, Gary Trent Jr., Precious Achiuwa",TOR,21,11,94.0,104.3,-10.3,0,0,1,0,1,0,0,0,0,1,0,1,0,1,0,0
+233,"George Hill, Giannis Antetokounmpo, Bobby Portis, Pat Connaughton, Grayson Allen",MIL,21,12,119.1,85.4,33.7,1,2,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+234,"Harrison Barnes, Richaun Holmes, De'Aaron Fox, Chimezie Metu, Davion Mitchell",SAC,21,8,69.4,97.9,-28.5,0,0,2,0,0,0,0,0,1,1,0,0,0,1,0,0
+235,"Justin Holiday, Myles Turner, Caris LeVert, Oshae Brissett, Chris Duarte",IND,21,3,134.1,112.2,22.0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1
+236,"Patrick Beverley, D'Angelo Russell, Jarred Vanderbilt, Naz Reid, Anthony Edwards",MIN,21,6,109.5,102.3,7.3,1,0,2,0,0,0,0,0,0,0,0,1,0,0,1,1
+237,"Pascal Siakam, OG Anunoby, Chris Boucher, Gary Trent Jr., Precious Achiuwa",TOR,21,5,100.0,109.3,-9.3,0,0,0,0,1,0,0,0,0,2,0,1,0,1,0,0
+238,"Trae Young, Fred VanVleet, Chris Boucher, Precious Achiuwa, Scottie Barnes",TOR,21,7,84.1,85.4,-1.3,0,0,2,0,0,0,0,0,0,0,0,2,0,1,0,0
+239,"Bradley Beal, Kentavious Caldwell-Pope, Montrezl Harrell, Kyle Kuzma, Corey Kispert",WAS,20,6,122.5,107.1,15.4,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1
+240,"Bradley Beal, Kentavious Caldwell-Pope, Spencer Dinwiddie, Montrezl Harrell, Deni Avdija",WAS,20,5,114.3,88.1,26.2,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,1
+241,"Cory Joseph, Killian Hayes, Saddiq Bey, Isaiah Stewart, Cade Cunningham",DET,20,8,114.6,85.0,29.6,2,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1
+242,"Danilo Gallinari, Delon Wright, John Collins, Kevin Huerter, Trae Young",ATL,20,7,118.4,78.7,39.6,1,0,1,0,1,0,0,0,0,1,0,0,0,1,0,1
+243,"Draymond Green, Andrew Wiggins, Kevon Looney, Gary Payton II, Jordan Poole",GSW,20,6,115.0,88.1,26.9,1,0,1,0,0,0,0,0,2,1,0,0,0,0,0,1
+244,"Jerami Grant, Trey Lyles, Killian Hayes, Saddiq Bey, Cade Cunningham",DET,20,4,129.5,111.6,17.9,1,0,1,0,0,0,0,0,0,2,0,1,0,0,0,1
+245,"LeBron James, Carmelo Anthony, Russell Westbrook, Malik Monk, Talen Horton-Tucker",LAL,20,7,117.1,102.5,14.6,2,0,0,1,0,0,0,0,0,2,0,0,0,0,0,1
+246,"Pascal Siakam, Fred VanVleet, OG Anunoby, Chris Boucher, Gary Trent Jr.",TOR,20,6,126.2,80.4,45.8,0,0,1,0,1,0,0,0,0,2,0,0,0,1,0,1
+247,"Richaun Holmes, Buddy Hield, Marvin Bagley III, Tyrese Haliburton, Davion Mitchell",SAC,20,7,100.0,88.4,11.6,0,1,2,0,0,0,0,0,1,0,0,1,0,0,0,1
+248,"Tim Hardaway Jr., Kristaps Porzingis, Dorian Finney-Smith, Maxi Kleber, Luka Doncic",DAL,20,4,112.8,97.4,15.5,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,1
+249,"Tobias Harris, Seth Curry, Joel Embiid, Georges Niang, Furkan Korkmaz",PHI,20,10,123.3,102.4,20.8,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,1
+250,"Trae Young, Pascal Siakam, Gary Trent Jr., Precious Achiuwa, Scottie Barnes",TOR,20,6,83.7,85.0,-1.3,0,0,1,0,1,0,0,0,0,1,0,2,0,0,0,0
+251,"Bradley Beal, Kentavious Caldwell-Pope, Kyle Kuzma, Daniel Gafford, Corey Kispert",WAS,19,7,102.4,116.3,-13.8,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+252,"Bradley Beal, Kentavious Caldwell-Pope, Raul Neto, Montrezl Harrell, Deni Avdija",WAS,19,10,100.0,102.5,-2.5,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,0
+253,"Ben McLemore, Robert Covington, Larry Nance Jr., Anfernee Simons, Nassir Little",POR,19,4,78.4,86.8,-8.5,0,1,1,0,0,0,1,0,0,0,1,0,0,1,0,0
+254,"LaMarcus Aldridge, Kevin Durant, James Harden, Bruce Brown, Cam Thomas",BKN,19,6,116.7,114.0,2.7,0,0,2,0,0,0,1,0,0,1,0,0,0,1,0,1
+255,"Montrezl Harrell, Terry Rozier, Miles Bridges, P.J. Washington, LaMelo Ball",CHA,19,7,102.6,105.1,-2.5,0,1,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+256,"Mason Plumlee, Kelly Oubre Jr., Miles Bridges, Cody Martin, LaMelo Ball",CHA,19,10,83.3,97.7,-14.4,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0
+257,"Richaun Holmes, Buddy Hield, Chimezie Metu, Tyrese Haliburton, Davion Mitchell",SAC,19,5,100.0,90.0,10.0,0,1,2,0,0,0,0,0,1,0,0,0,0,1,0,1
+258,"Bojan Bogdanovic, John Collins, Kevin Huerter, Trae Young, Cam Reddish",ATL,18,5,87.2,94.4,-7.3,0,0,1,0,2,0,0,0,0,1,0,0,0,1,0,0
+259,"George Hill, Jrue Holiday, Bobby Portis, Pat Connaughton, Grayson Allen",MIL,18,7,110.8,119.4,-8.6,1,2,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+260,"Jimmy Butler, Bam Adebayo, Cody Martin, Max Strus, Tyler Herro",MIA,18,6,121.6,74.3,47.3,0,0,1,0,1,0,0,0,0,1,1,0,0,0,1,1
+261,"Kyle Lowry, Monte Morris, Bam Adebayo, Cody Martin, Tyler Herro",MIA,18,3,152.6,118.9,33.7,0,1,2,0,0,0,0,0,0,0,1,0,0,0,1,1
+262,"Marcus Smart, Jaylen Brown, Jayson Tatum, Robert Williams III, Payton Pritchard",BOS,18,5,110.5,111.1,-0.6,0,1,0,1,0,0,0,2,0,0,0,0,0,0,1,0
+263,"P.J. Tucker, Bam Adebayo, Duncan Robinson, Gabe Vincent, Tyler Herro",MIA,18,6,94.4,102.8,-8.3,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,0
+264,"Chris Paul, Jae Crowder, Devin Booker, Mikal Bridges, Cameron Johnson",PHX,17,17,101.9,98.2,3.7,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,1
+265,"Danilo Gallinari, Bojan Bogdanovic, Delon Wright, John Collins, Trae Young",ATL,17,9,87.2,89.2,-2.0,1,0,1,0,0,0,0,0,0,2,0,0,0,1,0,0
+266,"Danny Green, Tobias Harris, Joel Embiid, Georges Niang, Tyrese Maxey",PHI,17,9,92.1,68.4,23.7,0,1,1,0,0,0,0,0,0,1,1,0,1,0,0,1
+267,"Garrett Temple, Josh Hart, Devonte' Graham, Jaxson Hayes, Herbert Jones",NOP,17,6,82.5,139.0,-56.5,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0
+268,"Harrison Barnes, Richaun Holmes, De'Aaron Fox, Tyrese Haliburton, Davion Mitchell",SAC,17,7,90.0,111.1,-21.1,0,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0
+269,"Justin Holiday, Domantas Sabonis, Caris LeVert, Malcolm Brogdon, Chris Duarte",IND,17,4,102.6,90.0,12.6,1,0,2,0,1,0,0,0,0,0,0,0,0,0,1,1
+270,"Justin Holiday, Domantas Sabonis, Caris LeVert, Malcolm Brogdon, Torrey Craig",IND,17,5,125.0,107.9,17.1,0,0,2,0,1,0,0,0,0,0,1,0,0,0,1,1
+271,"Kyle Lowry, Jimmy Butler, Bam Adebayo, Cody Martin, Tyler Herro",MIA,17,6,63.4,110.3,-46.8,0,0,2,0,0,0,0,0,0,1,1,0,0,0,1,0
+272,"LeBron James, Carmelo Anthony, Russell Westbrook, Avery Bradley, Talen Horton-Tucker",LAL,17,6,146.3,105.1,41.2,1,1,0,1,0,0,0,0,0,2,0,0,0,0,0,1
+273,"Danny Green, Joel Embiid, Georges Niang, Matisse Thybulle, Tyrese Maxey",PHI,16,8,110.8,80.0,30.8,0,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1
+274,"Harrison Barnes, Buddy Hield, De'Aaron Fox, Marvin Bagley III, Davion Mitchell",SAC,16,5,130.6,84.2,46.3,0,1,2,0,0,0,0,0,0,1,0,1,0,0,0,1
+275,"Jimmy Butler, Bam Adebayo, Cody Martin, Duncan Robinson, Tyler Herro",MIA,16,8,127.0,117.9,9.1,0,0,1,0,0,0,0,0,0,1,2,0,0,0,1,1
+276,"Justin Holiday, Domantas Sabonis, Caris LeVert, Torrey Craig, Oshae Brissett",IND,16,5,102.9,120.6,-17.7,0,0,1,0,1,0,1,0,0,0,1,0,0,0,1,0
+277,"Jrue Holiday, Khris Middleton, Giannis Antetokounmpo, Grayson Allen, Jordan Nwora",MIL,16,7,113.5,94.7,18.8,0,1,0,1,0,0,0,0,0,2,1,0,0,0,0,1
+278,"Kyle Lowry, Monte Morris, Jimmy Butler, Bam Adebayo, Tyler Herro",MIA,16,5,82.4,97.1,-14.8,0,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0
+279,"Montrezl Harrell, Kelly Oubre Jr., Terry Rozier, Miles Bridges, P.J. Washington",CHA,16,4,102.9,91.2,11.8,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,1
+280,"Terrence Ross, Wendell Carter Jr., Cole Anthony, R.J. Hampton, Franz Wagner",ORL,16,5,134.4,100.0,34.4,1,0,1,0,1,0,0,0,0,1,0,0,0,0,1,1
+281,"Alec Burks, Evan Fournier, Julius Randle, RJ Barrett, Immanuel Quickley",NYK,15,8,80.0,145.2,-65.2,0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,0
+282,"Domantas Sabonis, Caris LeVert, Malcolm Brogdon, Oshae Brissett, Chris Duarte",IND,15,5,92.6,125.9,-33.3,1,0,2,0,0,0,1,0,0,0,0,0,0,0,1,0
+283,"Harrison Barnes, Richaun Holmes, Buddy Hield, Marvin Bagley III, Tyrese Haliburton",SAC,15,3,100.0,119.4,-19.4,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+284,"Kyle Lowry, Jimmy Butler, Bam Adebayo, Max Strus, Tyler Herro",MIA,15,3,121.2,58.1,63.1,0,0,2,0,1,0,0,0,0,1,0,0,0,0,1,1
+285,"Kelly Oubre Jr., Terry Rozier, Miles Bridges, Cody Martin, LaMelo Ball",CHA,15,8,84.8,136.4,-51.5,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0
+286,"P.J. Tucker, Monte Morris, Jimmy Butler, Duncan Robinson, Tyler Herro",MIA,15,4,126.9,118.5,8.4,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1
+287,"Reggie Bullock, Kristaps Porzingis, Dorian Finney-Smith, Jalen Brunson, Luka Doncic",DAL,15,5,131.3,113.3,17.9,0,0,1,0,1,1,0,0,0,0,1,0,0,1,0,1
+288,"Reggie Bullock, Spencer Dinwiddie, Dorian Finney-Smith, Jalen Brunson, Luka Doncic",DAL,15,7,129.0,123.3,5.7,0,0,2,0,1,1,0,0,0,0,1,0,0,0,0,1
+289,"Reggie Bullock, Tim Hardaway Jr., Kristaps Porzingis, Dorian Finney-Smith, Luka Doncic",DAL,15,6,109.7,48.5,61.2,0,0,0,0,2,1,0,0,0,0,1,0,0,1,0,1
+290,"Reggie Bullock, Tim Hardaway Jr., Kristaps Porzingis, Jalen Brunson, Luka Doncic",DAL,15,3,132.1,92.9,39.3,0,0,1,0,2,1,0,0,0,0,0,0,0,1,0,1
+291,"Stephen Curry, Andrew Wiggins, Kevon Looney, Gary Payton II, Damion Lee",GSW,15,6,77.1,122.6,-45.4,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0
+292,"Tim Hardaway Jr., Dwight Powell, Dorian Finney-Smith, Maxi Kleber, Jalen Brunson",DAL,15,6,148.1,88.9,59.3,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,1
