@@ -13,7 +13,7 @@
     <a href="https://github.com/rc-9/NBA_Lineup_Evaluator/issues">Report Bug</a>
     ·
     <a href="https://github.com/rc-9/NBA_Lineup_Evaluator/issues">Request Feature</a><br />
-    <a href="https://ibb.co/kyXNGY0"><img src="https://i.ibb.co/kyXNGY0/z3.png" alt="z3" border="" /></a><br />
+    <a href="[https://ibb.co/kyXNGY0](https://github.com/rc-9/NBA_Lineup_Evaluator/blob/master/z3.png)"><img src="https://github.com/rc-9/NBA_Lineup_Evaluator/blob/master/z3.png" width="275" height="250" alt="z3" border="" /></a><br />
   </p>
 </div>
 
