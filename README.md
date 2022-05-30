@@ -1,7 +1,6 @@
 [![Issues][issues-shield]][issues-url]
 
 
-
 <h1 align="center">NBA Lineup Evaluator</h1>
   <p align="center">
     University of Denver - Data Science Capstone
